@@ -1,5 +1,8 @@
 {
     "java.project.sourcePaths": [
         "DAY-1.1(PC)"
-    ]
+    ],
+    "files.associations": {
+        "ostream": "cpp"
+    }
 }
