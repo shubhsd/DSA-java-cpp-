@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
+            "name": "Launch isPrime",
+            "request": "launch",
+            "mainClass": "isPrime",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
             "name": "Launch evenOrOdd",
             "request": "launch",
             "mainClass": "evenOrOdd",
