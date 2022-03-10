@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch evenOrOdd",
+            "request": "launch",
+            "mainClass": "evenOrOdd",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
             "name": "Launch gcdHcfM1",
             "request": "launch",
             "mainClass": "gcdHcfM1",
