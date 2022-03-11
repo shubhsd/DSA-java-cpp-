@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch countDigits",
+            "request": "launch",
+            "mainClass": "countDigits",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
+            "name": "Launch incOpr",
+            "request": "launch",
+            "mainClass": "incOpr",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
             "name": "Launch printAllPrimes",
             "request": "launch",
             "mainClass": "printAllPrimes",
