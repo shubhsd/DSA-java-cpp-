@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch printAllPrimes",
+            "request": "launch",
+            "mainClass": "printAllPrimes",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
             "name": "Launch fibonacci",
             "request": "launch",
             "mainClass": "fibonacci",
