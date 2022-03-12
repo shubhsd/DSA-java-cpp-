@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch reverseNum",
+            "request": "launch",
+            "mainClass": "reverseNum",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
             "name": "Launch rotateByNTimes",
             "request": "launch",
             "mainClass": "rotateByNTimes",
