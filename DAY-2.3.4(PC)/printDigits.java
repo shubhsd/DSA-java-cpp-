@@ -1,3 +1,11 @@
+// Let say number is  12345 
+// o/p should be 
+// 1
+// 2
+// 3
+// 4
+// 5
+
 import java.util.*;
 
 public class printDigits {
