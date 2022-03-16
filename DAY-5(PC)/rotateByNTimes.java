@@ -1,13 +1,12 @@
+// eg: rotate by 2 for 975432 should give 329754
+
 import java.util.*;
 
 public class rotateByNTimes {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
-
-        System.out.println("Enter number to be rotated");
         int num = scn.nextInt();
-        System.out.println("Enter number of rotations to be done");
-        int k = scn.nextInt();
+        int rotations = scn.nextInt();
 
         // Finding number of digits
 
@@ -20,15 +19,15 @@ public class rotateByNTimes {
 
         // Special case 1 - finding rotations to be done for large rotation value (To avoid repetition)
 
-        k = k % nod;
+        rotations = rotations % nod;
         // line above will prevent from making extra rotations eg: for 105 rotations of 5 digit number we will get original 
         // number after every 5 rotation and next rotations after 5 will repeat itself.
 
         // Special case 2 - Negative rotations
 
         // As we saw that negative rotation will also be similar so one + rotation 
-        if(k<0) {
-            k = k + nod ;
+        if(rotations<0) {
+            rotations = rotations + nod ;
         }
 
         // Finding div and multiplier
@@ -44,7 +43,7 @@ public class rotateByNTimes {
         int mult = 1;
 
         for(int i = 1; i<=nod; i++) {
-            if(i<=k) {
+            if(i<=rotations) {
                 div = div * 10;
             } else {
                 mult = mult * 10;

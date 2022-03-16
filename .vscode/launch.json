@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
+            "name": "Launch benjaminBulbs",
+            "request": "launch",
+            "mainClass": "benjaminBulbs",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeFactorization",
+            "request": "launch",
+            "mainClass": "primeFactorization",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
+            "name": "Launch GcdLcm",
+            "request": "launch",
+            "mainClass": "GcdLcm",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
             "name": "Launch sumOfTwoNum",
             "request": "launch",
             "mainClass": "sumOfTwoNum",
