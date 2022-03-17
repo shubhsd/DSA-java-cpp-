@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch pattern5",
+            "request": "launch",
+            "mainClass": "pattern5",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
             "name": "Launch pattern4",
             "request": "launch",
             "mainClass": "pattern4",
