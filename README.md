@@ -9,3 +9,5 @@ Lecture-5 -> 6th Sept 2021 - Questions covered - rotate number by n times, rever
 Lecture-6 -> 7th Sept 2021 - basic placement orientation
 
 Lecture-7 -> 8th Sept 2021 = Pattern 2,3,4,5,7
+Lecture-8 -> 10th Sept 2021 = Pattern 10
+

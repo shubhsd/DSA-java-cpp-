@@ -1,3 +1,11 @@
+// Pattern 10 
+// for n = 5
+//             * 
+//         *       *
+//     *               * 
+//         *       *
+//             *
+
 import java.util.*;
 
 public class pattern10 {
