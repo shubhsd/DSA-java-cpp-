@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch primeNotPrimeForDiffNums",
+            "request": "launch",
+            "mainClass": "primeNotPrimeForDiffNums",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkPrime",
+            "request": "launch",
+            "mainClass": "checkPrime",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
+            "name": "Launch evenOdd",
+            "request": "launch",
+            "mainClass": "evenOdd",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern20",
+            "request": "launch",
+            "mainClass": "pattern20",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern19",
+            "request": "launch",
+            "mainClass": "pattern19",
+            "projectName": "DSA_efc6589"
+        },
+        {
+            "type": "java",
             "name": "Launch pattern18",
             "request": "launch",
             "mainClass": "pattern18",

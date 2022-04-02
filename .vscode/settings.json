@@ -1,11 +1,12 @@
 {
     "java.project.sourcePaths": [
+        "DAY-9(PC)",
         "DAY-8(PC)",
         "DAY-6,7(PC)",
         "DAY-5(PC)",
         "DAY-2.3.4(PC)",
         "DAY-1.1(PC)",
-        "DAY-9(PC)"
+        "Revision -1 (Lec 1-6)"
     ],
     "files.associations": {
         "ostream": "cpp"
