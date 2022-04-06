@@ -9,7 +9,9 @@ public class rotateByK {
 
         // FInding number of digits
         int nod = 0;
+
         int temp = num;
+        
         while (temp != 0) {
             temp = temp / 10;
             nod++;
